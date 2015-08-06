@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 极客学院 Wiki Weekly Newsletter  
  
 **(2015年8月2日~7日）**
@@ -117,10 +116,3 @@ Email：wiki@jikexueyuan.com
 
 邮件订阅： <http://tinyletter.com/jikexueyuanwiki>
 
-
-
-=======
-# wiki-weekly-newsletter
-
-2222
->>>>>>> 98eee697a727806ccb6de7094047b1adf35bf3dd
