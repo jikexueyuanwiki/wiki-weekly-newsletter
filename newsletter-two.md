@@ -6,7 +6,7 @@
 
 ## 精品课程
 
-![](images/es6.jpg)
+![](images/es.jpg)
 
 [《深度解析 ECMAScript 6》](http://wiki.jikexueyuan.com/project/es-six-deeply/)ECMAScript 6 简称 “ES6”，ES6 包含了很多新的语言功能，且这些语言功能使得 JavaScript 更加强大更富有表现力。如果你想要了解 ES6 的特别之处，那么本书是个不错选择，本书作者专业且文艺，附有 JS 版 “哈姆雷特” 供大家欣赏。
 
