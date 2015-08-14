@@ -1,8 +1,4 @@
-- 首版前言
-- 精品课程
-- 本周上线
-- 课程预报
-- Wiki News
-- 联系我们
+- [Wiki Newsletter 第一期](newsletter-one.md)
+- [Wiki NewsLetter 第二期](newsletter-two.md)
 
 
