@@ -1,4 +1,4 @@
-- [Wiki Newsletter 第一期](newsletter-one.md)
-- [Wiki NewsLetter 第二期](newsletter-two.md)
+- [Weekly Newsletter 第一期](newsletter-one.md)
+- [Weekly NewsLetter 第二期](newsletter-two.md)
 
 
