@@ -1,6 +1,6 @@
 # 极客学院 Wiki Weekly Newsletter  
  
-**(2015年8月9日~14日）**
+**(2015年8月16日~21日）**
 
 ![newsletterlogo](images/newsletter-banner.jpg)  
 
@@ -52,11 +52,11 @@
 
 ### 学习 Android 的孩子，运气都不会差（就业班第三期招生）
 
-**你值得一份年薪 20 万的工作**，由于报名火热，我们特开第三期就业班，据统计，Android 开发工程师平均月薪已狂飙至 13500 元，那么还等什么？快来报名吧！绿色通道：<http://jiuye.jikexueyuan.com/train/android?huodong=jiuye_android_shouye_banner>。
+**你值得一份年薪 20 万的工作**，由于报名火热，我们特开第三期就业班，据统计，Android 开发工程师平均月薪已狂飙至 13500 元，那么还等什么？快来报名吧！[绿色通道入口](http://jiuye.jikexueyuan.com/train/android?huodong=jiuye_android_shouye_banner)。
 
 ### Material Design 强势更新
 
-Google I/O 2014 发布 Material Design，1sters 于 2014-09-09 上线中文版，并稳稳占据百度和 Google material design 关键字的第一名。中文网站于 2015-08-16 更新，新增 20+ 章节，并发布在极客学院 Wiki 平台，后续中文版持续更新中，有兴趣的同学，请点击[这里](http://wiki.jikexueyuan.com/project/material-design/)查看。
+Google I/O 2014 发布 Material Design，1sters 于 2014-09-09 上线中文版，并稳稳占据百度和 Google material design 关键字的第一名。中文网站于 2015-08-16 更新，新增 20+ 章节，并发布在极客学院 Wiki 平台，后续中文版持续更新中，有兴趣的同学，[请点击这里查看](http://wiki.jikexueyuan.com/project/material-design/)。
 
 ## 联系我们
 
