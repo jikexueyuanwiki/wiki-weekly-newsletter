@@ -6,7 +6,7 @@ Wiki Weekly Newsletter 是极客学院 Wiki 团队根据网站内容提炼；格
 
 |名称|发布时间|
 |------|-----------|
-|[Weekly Newsletter 第一期](newsletter-one.md) |2015年8月2日~7日|
+|[Weekly NewsLetter 第一期](newsletter-one.md) |2015年8月2日~7日|
 |[Weekly NewsLetter 第二期](newsletter-two.md) |2015年8月9日~14日|
 |[Weekly NewsLetter 第三期](newsletter-three.md) |2015年8月16日~21日|
 |持续更新ing......||
