@@ -12,7 +12,7 @@
 
 ![](images/go.jpg)
 
-[《Go 入门指南》](http://wiki.jikexueyuan.com/project/the-way-to-go/)——**《The Way to Go》**中文翻译版，作者 @无闻Unknwon 在阅读英文版后，有感于国内并没有比较好的 Go 语言书籍，而国外的优秀书籍因为英文的缘故在一定程度上也为不少 Go 语言爱好者带来了一些学习上的困扰，所以本着为了加快扩散 Go 爱好者的国内群体，在完成阅读这本名叫 《The Way to Go》 之后，决定每天抽出一点时间来进行翻译的工作，并且以开源的形式免费分享给有需要的 Go 语言爱好者。
+[《Go 入门指南》](http://wiki.jikexueyuan.com/project/the-way-to-go/)——**《The Way to Go》**中文翻译版，作者 @无闻Unknwon 在阅读英文版后，有感于国内并没有比较好的 Go 语言书籍，而国外的优秀书籍因为英文的缘故在一定程度上也为不少 Go 语言爱好者带来了一些学习上的困扰，所以本着为了加快扩散 Go 爱好者群体的想法，在完成阅读《The Way to Go》 之后，决定每天抽出一点时间来进行翻译的工作，并且以开源的形式免费分享给有需要的 Go 语言爱好者。
 
 ![](images/tomcat.jpg)
 
@@ -46,7 +46,7 @@
 
 - 《深度解析 ECMAScript 6 》ECMAScript 6 简称 “ES6”，ES6 包含了很多新的语言功能，且这些语言功能使得 JavaScript 更加强大更富有表现力。后续会有三章更精彩的内容呈现。
 
-- 《Chrome Dev Tools》Chrome 浏览器调试工具详解，目前国内还没有一部关于 Chrome ToolS 的教程，本教程是翻译国外最新官方使用手册，是一部值得前端工程师期待的调试宝典。
+- 《Chrome Dev Tools》Chrome 浏览器调试工具详解，目前国内还没有一部关于 Chrome Tools 的教程，本教程是翻译国外最新官方使用手册，是一部值得前端工程师期待的调试宝典。
 
 ## Wiki News
 
