@@ -16,7 +16,7 @@
 
 ![](images/java.jpg)
 
-[《Java 面试宝典》](http://wiki.jikexueyuan.com/project/tomcat/)——本面试宝典的试题均来自于网上。我们按照 Java 知识点的分类整理出 17 章共 204 道笔试题，每道题都有解答，希望读者可以通过这些题目快速准备笔试面试并获得最终的求职成功。
+[《Java 面试宝典》](http://wiki.jikexueyuan.com/project/java-interview-bible/)——本面试宝典的试题均来自于网上。我们按照 Java 知识点的分类整理出 17 章共 204 道笔试题，每道题都有解答，希望读者可以通过这些题目快速准备笔试面试并获得最终的求职成功。
 
 ![](images/ios8.jpg)
 
