@@ -50,13 +50,13 @@ Java 零基础入门计划，一个专为小白设计的 Java 入门计划，让
 - 它运用最广，全球 900 万人都在用它。最受程序员欢迎的编程语言，没有之一。
 - 它优点最多，它面向对象，分布式，可移植，性能优异、多线程各种优点。
 
-绿色通道：<http://jiuye.jikexueyuan.com/train/java?huodong=jiuye_java_shouye_banner_0910>
+[绿色通道](http://jiuye.jikexueyuan.com/train/java?huodong=jiuye_java_shouye_banner_0910)
 
 ### 开学助跑，极客礼包随便领
 
 9 月 1 日-9 月 15 日，极客学院推出开学大礼包，礼包内容包含精品技术书籍、实用求职技巧、精美简历模板、极客学院 VIP 等，每 500 人就会选出 5 人，目前已经有 9000 人参与，速度来抽奖吧。
 
-绿色通道：<http://huodong.jikexueyuan.com/kaixuezhupao?huodong=kaixuezhupao_shouye_banner_0901>
+[绿色通道](http://huodong.jikexueyuan.com/kaixuezhupao?huodong=kaixuezhupao_shouye_banner_0901)
 
 ## 联系我们
 
