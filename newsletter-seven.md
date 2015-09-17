@@ -22,7 +22,7 @@
 
 [《HomeKit 开发指南》](http://wiki.jikexueyuan.com/project/homekit/)——本文档主要帮助家庭自动化配件的开发者来进行 HomeKit App 的开发，帮助读者了解智能家居平台 HomeKit，并了解智能家居控制的原理。
 
-![](images/learningjsd.jpg)
+![](images/app.jpg)
 
 [《App Store 上线的那些事儿》](http://wiki.jikexueyuan.com/project/app-store-refused/)——本教程是结合极客学院 iOS 组多次被拒后经验的总结而成，通过他们的经验，将那些上线标准没有明确说明，但是审核人会以此为理由拒绝的“潜规则”列举出来。总结了上线前需要注意的地方和自检方法，帮助 App 应用开发者顺利上线。
 
