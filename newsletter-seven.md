@@ -46,9 +46,9 @@
 
 [绿色通道](http://www.jikexueyuan.com/blog/503.html?huodong=daili_shouye_banner_0917)
 
-### BootStrap 4 中文版极客版
+### BootStrap 4 中文极客版
 
-极客学院组织翻译并整理 Bootstrap 4，目前 Bootstrap 4 处于持续更新版本修订状态，为了满足广大用户的需求，我们特约资深前端开发工程师[樊潇洁](http://weibo.com/u/5596869470)定时为其更新，保证内容最新最好最快的展示给读者，同时我们也欢迎更多的前端爱好者参与进来，共同维护这个项目。
+极客学院组织翻译并整理 Bootstrap 4，目前 Bootstrap 4 处于持续更新，版本修订状态，为了满足广大用户的需求，我们特约资深前端开发工程师[樊潇洁](http://weibo.com/u/5596869470)定时为其更新，保证内容最新最好最快的展示给读者，同时我们也欢迎更多的前端爱好者参与进来，共同维护这个项目。
 
 [绿色通道](http://wiki.jikexueyuan.com/project/bootstrap4/getting-started/introduction/)
 
