@@ -4,5 +4,6 @@
 - [Weekly NewsLetter 第四期](newsletter-four.md)
 - [Weekly NewsLetter 第五期](newsletter-five.md)
 - [Weekly NewsLetter 第六期](newsletter-six.md)
+- [Weekly NewsLetter 第七期](newsletter-seven.md)
 
 
