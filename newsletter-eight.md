@@ -36,7 +36,7 @@
 
 - 《Android Weekly 中文版 》171 期——每周报道 Android 最新讯息。
 
-- 《The Swift Programming Language 中文版》——epub 修改版完成，下周你就可以下载到精美排版的后的 epub 文件，敬请期待。
+- 《The Swift Programming Language 中文版》——epub 修改版，下周你就可以下载到精美排版后的 epub 文件，敬请期待。
 
 ## Wiki News
 
