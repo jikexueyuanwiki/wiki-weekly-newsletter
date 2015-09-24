@@ -30,7 +30,7 @@
 
 - [《Android Weekly 中文版 》171期](http://wiki.jikexueyuan.com/project/android-weekly/issue-171/index.html)
 
-- [IntelliJ IDEA 使用教程](http://wiki.jikexueyuan.com/project/IntelliJ-IDEA-Tutorial/mac-install.html) 增加 Mac 安装章节。
+- [《IntelliJ IDEA 使用教程》](http://wiki.jikexueyuan.com/project/IntelliJ-IDEA-Tutorial/mac-install.html) 增加 Mac 安装章节。
 
 ## 课程预报
 
