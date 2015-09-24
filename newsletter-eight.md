@@ -20,7 +20,7 @@
 
 ![](images/mysql1.jpg)
 
-[《21 分钟 MySQL 入门教程》](http://wiki.jikexueyuan.com/project/mysql/)——MySQL 目前是最流行的开源关系型 SQL 数据库管理系统，是一种用于最适于开发 Web 软件应用的 RDBMS。如果你现在还处于新手阶段，那么请来学习这个教程，简洁明了，重点知识点全部囊括，学完上手就做。
+[《21 分钟 MySQL 入门教程》](http://wiki.jikexueyuan.com/project/mysql-21-minutes/)——MySQL 目前是最流行的开源关系型 SQL 数据库管理系统，是一种用于最适于开发 Web 软件应用的 RDBMS。如果你现在还处于新手阶段，那么请来学习这个教程，简洁明了，重点知识点全部囊括，学完上手就做。
 
 ![](images/atom.jpg)
 
@@ -28,9 +28,9 @@
 
 ## 本周上线
 
-- [《Android Weekly 中文版 》171期](http://wiki.jikexueyuan.com/project/android-weekly/issue-170/index.html)
+- [《Android Weekly 中文版 》171期](http://wiki.jikexueyuan.com/project/android-weekly/issue-171/index.html)
 
-- [IntelliJ IDEA 使用教程](http://wiki.jikexueyuan.com/project/IntelliJ-IDEA-Tutorial/) 增加 Mac 安装章节。
+- [IntelliJ IDEA 使用教程](http://wiki.jikexueyuan.com/project/IntelliJ-IDEA-Tutorial/mac-install.html) 增加 Mac 安装章节。
 
 ## 课程预报
 
