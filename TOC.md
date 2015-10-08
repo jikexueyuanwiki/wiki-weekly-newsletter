@@ -6,5 +6,6 @@
 - [Weekly NewsLetter 第六期](newsletter-six.md)
 - [Weekly NewsLetter 第七期](newsletter-seven.md)
 - [Weekly NewsLetter 第八期](newsletter-eight.md)
+- [Weekly NewsLetter 第九期](newsletter-nine.md)
 
 
