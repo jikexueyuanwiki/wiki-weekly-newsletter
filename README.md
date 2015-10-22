@@ -16,6 +16,7 @@ Wiki Weekly Newsletter 是极客学院 Wiki 团队根据网站内容提炼；格
 |[Weekly NewsLetter 第八期](newsletter-eight.md) |2015年9月20日~25日|
 |[Weekly NewsLetter 第九期](newsletter-nine.md) |2015年10月4日~9日|
 |[Weekly NewsLetter 第十期](newsletter-ten.md) |2015年10月11日~16日|
+|[Weekly NewsLetter 第十一期](newsletter-eleven.md) |2015年10月18日~23日|
 |持续更新ing......||
 
 ## 订阅地址
