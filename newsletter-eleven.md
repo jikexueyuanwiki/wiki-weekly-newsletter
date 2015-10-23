@@ -1,6 +1,6 @@
-# 极客学院 Wiki Weekly Newsletter  
+# 极客学院 Wiki Weekly Newsletter 
  
-**(2015年10月18日~23日）**
+**(2015年10月18日~23日） 第 11 期**                                                 
 
 ![newsletterlogo](images/newsletter-banner.jpg) 
 
@@ -57,3 +57,5 @@ QQ 群：323037186
 Email：wiki@jikexueyuan.com
 
 邮件订阅： <http://tinyletter.com/jikexueyuanwiki>
+
+更多 Newsletter 信息请移步：<http://wiki.jikexueyuan.com/project/newsletter/>
