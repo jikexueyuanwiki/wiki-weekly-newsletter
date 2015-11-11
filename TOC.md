@@ -11,5 +11,6 @@
 - [Weekly NewsLetter 第十一期](newsletter-eleven.md)
 - [Weekly NewsLetter 第十二期](newsletter-twelve.md)
 - [Weekly NewsLetter 第十三期](newsletter-thirteen.md)
+- [Weekly NewsLetter 第十四期](newsletter-fourteen.md)
 
 
