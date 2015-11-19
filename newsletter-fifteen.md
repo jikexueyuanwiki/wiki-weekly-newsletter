@@ -51,7 +51,7 @@
 一、免费阅读Wiki IT图文教程，写学习心得送Kindle电子书阅读器、优质IT图书。  
 二、给Wiki产品&内容提建议，送小米插线板！
 
-<font color="green">绿色通道：[点此进入](http://qun.jikexueyuan.com/wiki/topic/116?huodong=tieba_tiezi)</font>
+点此进入:<http://qun.jikexueyuan.com/wiki/topic/116?huodong=tieba_tiezi>
 
 ### TensorFlow 协同翻译进度汇报
 
