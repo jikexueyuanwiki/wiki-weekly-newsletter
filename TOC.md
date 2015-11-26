@@ -13,5 +13,6 @@
 - [Weekly NewsLetter 第十三期](newsletter-thirteen.md)
 - [Weekly NewsLetter 第十四期](newsletter-fourteen.md)
 - [Weekly NewsLetter 第十五期](newsletter-fifteen.md)
+- [Weekly NewsLetter 第十六期](newsletter-sixteen.md)
 
 
