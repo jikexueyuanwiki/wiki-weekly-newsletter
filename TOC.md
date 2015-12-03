@@ -14,5 +14,6 @@
 - [Weekly NewsLetter 第十四期](newsletter-fourteen.md)
 - [Weekly NewsLetter 第十五期](newsletter-fifteen.md)
 - [Weekly NewsLetter 第十六期](newsletter-sixteen.md)
+- [Weekly NewsLetter 第十七期](newsletter-seventeen.md)
 
 
