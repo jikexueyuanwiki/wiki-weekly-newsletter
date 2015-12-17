@@ -49,7 +49,6 @@
 - 原创作者投稿
 - 合作伙伴展示
 - 推荐课程轮播展示
-- 宣传Banner/广告位展示
 
 详细信息请看这里：<http://wiki.jikexueyuan.com/>
 
