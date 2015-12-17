@@ -16,5 +16,6 @@
 - [Weekly NewsLetter 第十六期](newsletter-sixteen.md)
 - [Weekly NewsLetter 第十七期](newsletter-seventeen.md)
 - [Weekly NewsLetter 第十八期](newsletter-eighteen.md)
+- [Weekly NewsLetter 第十九期](newsletter-nineteen.md)
 
 
