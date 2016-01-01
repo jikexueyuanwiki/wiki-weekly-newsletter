@@ -12,7 +12,7 @@
 
 ![](images/ios-nine.jpg)
 
-[《iOS 9人机界面指南》](http://wiki.jikexueyuan.com/project/ios-nine/)——iOS 9 人机界面指南翻译的内容为 iPhoneHIG 的设计规范，旨在帮助交互设计师和应用开发者了解苹果应用设计规范， 设计 iPhone 应用程序的用户界面，了解那些用于创建 iPhone 应用程序的用户界面的元素，同时还描述了各种可用的视图和控件并提 供了如何有效使用它们的说明。
+[《iOS 9人机界面指南》](http://wiki.jikexueyuan.com/project/ios-9-human-computer-interface-guidelines/)——iOS 9 人机界面指南翻译的内容为 iPhoneHIG 的设计规范，旨在帮助交互设计师和应用开发者了解苹果应用设计规范， 设计 iPhone 应用程序的用户界面，了解那些用于创建 iPhone 应用程序的用户界面的元素，同时还描述了各种可用的视图和控件并提 供了如何有效使用它们的说明。
 
 ![](images/redis-store.jpg)
 
