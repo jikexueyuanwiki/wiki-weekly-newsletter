@@ -44,6 +44,8 @@
 
 - [《极客周刊》第二期 ](http://wiki.jikexueyuan.com/project/geek-weekly-newsletter/issues-2/newsletter-two.html)
 
+- [《PM 周刊》第 14 期](http://wiki.jikexueyuan.com/project/pmweekly/14.html)
+
 ## 课程预报
 
 - 《Android Weekly 中文版 》189 期——每周报道 Android 最新讯息，把握 Android 国内外现状。
