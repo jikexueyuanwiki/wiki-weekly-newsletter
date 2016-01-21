@@ -24,7 +24,7 @@
 
 ![](images/Express.jpg)
 
-[《Express 指南》](http://wiki.jikexueyuan.com/project/python3-cookbook/)——Express 是一个简洁、灵活的 node.js Web 应用开发框架, 它提供一系列强大的特性，帮助你创建各种 Web 和移动设备应用。
+[《Express 指南》](http://wiki.jikexueyuan.com/project/express-guide/)——Express 是一个简洁、灵活的 node.js Web 应用开发框架, 它提供一系列强大的特性，帮助你创建各种 Web 和移动设备应用。
 
 ## Wiki News
 
