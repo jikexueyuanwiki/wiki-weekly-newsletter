@@ -1,6 +1,6 @@
 # 极客学院 Wiki Weekly Newsletter 
  
-**(2015年1月10日~1月15日） 第 23 期**                                                 
+**(2016年1月10日~1月15日） 第 23 期**                                                 
 
 ![newsletterlogo](images/newsletter-banner.jpg) 
 
