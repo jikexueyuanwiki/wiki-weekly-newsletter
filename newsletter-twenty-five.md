@@ -52,7 +52,7 @@ Wiki 经过了策马奔腾的一年，迎来了欣喜的猴年。这一年，感
 
 - [《Android Weekly 中文版 》189 期](http://wiki.jikexueyuan.com/project/android-weekly/issue-189/index.html)译者：[Titanjum](https://github.com/JungleTian)
 
-- [《极客周刊》第三期 ](http://wiki.jikexueyuan.com/project/geek-weekly-newsletter/issues-2/newsletter-three.html)
+- [《极客周刊》第三期 ](http://wiki.jikexueyuan.com/project/geek-weekly-newsletter/issues-3/newsletter-three.html)
 
 ## 课程预报
 
