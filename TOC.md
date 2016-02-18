@@ -25,5 +25,6 @@
   - [第二十三期](newsletter-twenty-three.md)
   - [第二十四期](newsletter-twenty-four.md)
   - [第二十五期](newsletter-twenty-five.md)
+  - [第二十六期](newsletter-twenty-six.md)
 
 
