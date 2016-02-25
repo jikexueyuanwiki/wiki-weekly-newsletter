@@ -8,7 +8,7 @@
 
 ![](images/apple-pay.jpg)
 
-[《Apple Pay 编程指南》](http://wiki.jikexueyuan.com/project/ios-9-human-computer-interface-guidelines/)——在发布近两年、历经各种周折之后，苹果的Apple Pay移动支付服务终于在2016年2月18日来到了中国大陆。Apple Pay 是一种移动支付技术，它能够让用户以一种便捷安全的方式为现实世界中购买的商品和服务付款。本教程是 《Apple Pay Programming Guide》 官方文档翻译版。主要讲解 关于Apple Pay、配置支付环境、创建支付请求、授权支付、处理支付等内容。
+[《Apple Pay 编程指南》](http://wiki.jikexueyuan.com/project/apple-pay/)——在发布近两年、历经各种周折之后，苹果的Apple Pay移动支付服务终于在2016年2月18日来到了中国大陆。Apple Pay 是一种移动支付技术，它能够让用户以一种便捷安全的方式为现实世界中购买的商品和服务付款。本教程是 《Apple Pay Programming Guide》 官方文档翻译版。主要讲解 关于Apple Pay、配置支付环境、创建支付请求、授权支付、处理支付等内容。
 
 ![](images/atom-fly.jpg)
 
