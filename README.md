@@ -7,33 +7,14 @@ Wiki Weekly Newsletter 是极客学院 Wiki 团队根据网站内容提炼；格
 |名称|发布时间|
 |------|-----------|
 |2015年||
-|[Weekly NewsLetter 第一期](newsletter-one.md) |2015年8月2日~7日|
-|[Weekly NewsLetter 第二期](newsletter-two.md) |2015年8月9日~14日|
-|[Weekly NewsLetter 第三期](newsletter-three.md) |2015年8月16日~21日|
-|[Weekly NewsLetter 第四期](newsletter-four.md) |2015年8月23日~28日|
-|[Weekly NewsLetter 第五期](newsletter-five.md) |2015年8月30日~9月4日|
-|[Weekly NewsLetter 第六期](newsletter-six.md) |2015年9月6日~11日|
-|[Weekly NewsLetter 第七期](newsletter-seven.md) |2015年9月13日~18日|
-|[Weekly NewsLetter 第八期](newsletter-eight.md) |2015年9月20日~25日|
-|[Weekly NewsLetter 第九期](newsletter-nine.md) |2015年10月4日~9日|
-|[Weekly NewsLetter 第十期](newsletter-ten.md) |2015年10月11日~16日|
-|[Weekly NewsLetter 第十一期](newsletter-eleven.md) |2015年10月18日~23日|
-|[Weekly NewsLetter 第十二期](newsletter-twelve.md) |2015年10月25日~30日|
-|[Weekly NewsLetter 第十三期](newsletter-thirteen.md) |2015年11月1日~6日|
-|[Weekly NewsLetter 第十四期](newsletter-fourteen.md) |2015年11月8日~13日|
-|[Weekly NewsLetter 第十五期](newsletter-fifteen.md) |2015年11月15日~20日|
-|[Weekly NewsLetter 第十六期](newsletter-sixteen.md) |2015年11月22日~27日|
-|[Weekly NewsLetter 第十七期](newsletter-seventeen.md) |2015年11月29日~12月4日|
-|[Weekly NewsLetter 第十八期](newsletter-eighteen.md) |2015年12月6日~11日|
-|[Weekly NewsLetter 第十九期](newsletter-nineteen.md) |2015年12月13日~18日|
-|[Weekly NewsLetter 第二十期](newsletter-twenty.md) |2015年12月20日~25日|
-|[Weekly NewsLetter 第二十一期](newsletter-twenty-one.md) |2015年12月27日~2016年1月1日|
+|[21期汇总](2015.md)||
 |2016年||
 |[Weekly NewsLetter 第二十二期](newsletter-twenty-two.md) |2016年1月3日~1月8日|
 |[Weekly NewsLetter 第二十三期](newsletter-twenty-three.md) |2016年1月10日~1月15日|
 |[Weekly NewsLetter 第二十四期](newsletter-twenty-four.md) |2016年1月17日~1月22日|
 |[Weekly NewsLetter 第二十五期](newsletter-twenty-five.md)|2016年1月24日~1月29日|
 |[Weekly NewsLetter 第二十六期](newsletter-twenty-six.md)|2016年2月14日~2月19日|
+|[Weekly NewsLetter 第二十七期](newsletter-twenty-seven.md)|2016年2月21日~2月26日|
 |持续更新ing......||
 
 ## 订阅地址
