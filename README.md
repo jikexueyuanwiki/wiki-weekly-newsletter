@@ -15,6 +15,7 @@ Wiki Weekly Newsletter 是极客学院 Wiki 团队根据网站内容提炼；格
 |[Weekly NewsLetter 第二十五期](newsletter-twenty-five.md)|2016年1月24日~1月29日|
 |[Weekly NewsLetter 第二十六期](newsletter-twenty-six.md)|2016年2月14日~2月19日|
 |[Weekly NewsLetter 第二十七期](newsletter-twenty-seven.md)|2016年2月21日~2月26日|
+|[Weekly NewsLetter 第二十八期](newsletter-twenty-eight.md)|2016年2月28日~3月4日|
 |持续更新ing......||
 
 ## 订阅地址
