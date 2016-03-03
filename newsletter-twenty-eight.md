@@ -16,7 +16,7 @@
 
 ![](images/react-native-two.jpg)
 
-[《React-Native 入门指南》](http://wiki.jikexueyuan.com/project/react-native-lesson/)——《React Native入门与实战》的姐妹篇，作者[王利华](http://vczero.github.io/) 根据日常开发经验汇总此指南，偏重实践，需要有一点基础的人学习。
+[《React Native 入门指南》](http://wiki.jikexueyuan.com/project/react-native-lesson/)——《React Native入门与实战》的姐妹篇，作者[王利华](http://vczero.github.io/)根据日常开发经验汇总此指南，偏重实践，需要有一点基础的人学习。
 
 ![](images/coding.jpg)
 
@@ -39,15 +39,18 @@
 ### 本周开通下载的书籍
 
 - [极客学院 IT 文摘](http://wiki.jikexueyuan.com/project/geekdigest/)
+
 - [Ghost使用指南](http://wiki.jikexueyuan.com/project/ghost-user-guide/)
+
 - [How to be a Programmer 中文版](http://wiki.jikexueyuan.com/project/how-to-be-a-programmer/)
+
 - [Apple Pay 编程指南](http://wiki.jikexueyuan.com/project/apple-pay/)
 
 ## 本周上线
 
 - [《极客周刊》第六期 ](http://wiki.jikexueyuan.com/project/geek-weekly-newsletter/issues-6/newsletter-six.html)
 
-- [React-Native入门指南](http://wiki.jikexueyuan.com/project/react-native-lesson/)
+- [React Native入门指南](http://wiki.jikexueyuan.com/project/react-native-lesson/)
 
 - [ASP.NET Web API 中文版](http://wiki.jikexueyuan.com/project/web-api-book/)
 
