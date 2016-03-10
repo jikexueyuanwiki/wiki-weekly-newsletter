@@ -28,5 +28,6 @@
   - [第二十六期](newsletter-twenty-six.md)
   - [第二十七期](newsletter-twenty-seven.md)
   - [第二十八期](newsletter-twenty-eight.md)
+  - [第二十九期](newsletter-twenty-nine.md)
 
 
