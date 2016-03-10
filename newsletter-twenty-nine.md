@@ -16,7 +16,7 @@
 
 ![](images/leetcode.jpg)
 
-[《leetCode 题解 （多语言版）》](http://wiki.jikexueyuan.com/project/leetcode-book/)——leetCode 是一个美国的在线编程网站，上面主要收集了各大IT公司的笔试面试题，对于应届毕业生找工作是一个不可多得的好帮手。此版本是多种语言版本，答案来自作者个人整理。
+[《leetCode 题解（多语言版）》](http://wiki.jikexueyuan.com/project/leetcode-book/)——leetCode 是一个美国的在线编程网站，上面主要收集了各大 IT 公司的笔试面试题，对于应届毕业生找工作是一个不可多得的好帮手。此版本是多种语言版本，答案来自作者个人整理。
 
 ![](images/js-f.jpg)
 
