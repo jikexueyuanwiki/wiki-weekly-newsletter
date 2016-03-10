@@ -54,7 +54,7 @@
 
 - [Android Weekly 中文版 Issue #195](http://wiki.jikexueyuan.com/project/android-weekly/issue-195/index.html)
 
-- [PM 周刊第17期](http://wiki.jikexueyuan.com/project/pmweekly/17.html)
+- [PM 周刊第 17 期](http://wiki.jikexueyuan.com/project/pmweekly/17.html)
 
 ## 课程预报
 
