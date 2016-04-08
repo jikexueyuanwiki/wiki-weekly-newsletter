@@ -30,6 +30,8 @@
 
 ### 7天微信开发实战
 
+首期报名即将爆满，有想学微信开发的小伙伴速速报名！
+
 ![](images/weixin48.jpg)
 
 <http://xuexi.jikexueyuan.com/course/2.html>
