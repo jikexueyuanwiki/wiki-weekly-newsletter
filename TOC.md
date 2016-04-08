@@ -32,5 +32,6 @@
   - [第三十期](newsletter-thirty.md)
   - [第三十一期](newsletter-thirty-one.md)
   - [第三十二期](newsletter-thirty-two.md)
+  - [第三十三期](newsletter-thirty-three.md)
 
 

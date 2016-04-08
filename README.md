@@ -20,6 +20,7 @@ Wiki Weekly Newsletter 是极客学院 Wiki 团队根据网站内容提炼；格
 |[Weekly NewsLetter 第三十期](newsletter-thirty.md)|2016年3月13日~3月18日|
 |[Weekly NewsLetter 第三十一期](newsletter-thirty-one.md)|2016年3月20日~3月25日|
 |[Weekly NewsLetter 第三十二期](newsletter-thirty-two.md)|2016年3月27日~4月1日|
+|[Weekly NewsLetter 第三十三期](newsletter-thirty-three.md)|2016年4月3日~4月8日|
 |持续更新ing......||
 
 ## 订阅地址
