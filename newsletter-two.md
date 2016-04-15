@@ -17,7 +17,7 @@
 ![](images/python.jpg)
 
 [《零基础学 Python》(第二版)](http://wiki.jikexueyuan.com/project/start-learning-python/)
-作者老齐又一力作，本书是一本完整的关于 Python 语言学习的书。该书用风趣幽默的语言、丰富的图片、清晰的代码以及完整的实战案例，系统地介绍了 Python 这门当下非常流行的编程语言，是一本非常难得的 Python 学习书籍。该书为同名原书第二版。。
+作者老齐又一力作，本书是一本完整的关于 Python 语言学习的书。该书用风趣幽默的语言、丰富的图片、清晰的代码以及完整的实战案例，系统地介绍了 Python 这门当下非常流行的编程语言，是一本非常难得的 Python 学习书籍。该书为同名原书第二版。
 
 ![](images/codeigniter.jpg)
 
